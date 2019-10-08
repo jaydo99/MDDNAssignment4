@@ -1,0 +1,135 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Muli', sans-serif;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 0.5%;
+  background-color: #2b75e3;
+}
+
+
+.navbar a {
+
+  text-decoration: none;
+  color: white;
+  padding-bottom: 1%;
+}
+
+#logosmall {
+width: 7%;
+
+}
+#name {
+  font-size: 220%;
+font-family: 'Playfair Display', serif;
+}
+
+nav {
+  min-width: 400px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2%;
+
+}
+
+
+
+.title {
+  height: 89%;
+  width: 100%;
+  margin: 0%;
+}
+
+#wallpaper {
+  width: 100%;
+  height: 105%;
+}
+
+#infobox {
+  background-color: #2b75e3;
+  width: 13%;
+  height: 30%;
+  position: absolute;
+  margin-left: 82%;
+  margin-bottom: 1%;
+  bottom: 2%;
+  padding: 1.5%;
+  color: white;
+  line-height: 70%;
+  text-align: left;
+  font-family: 'Muli', sans-serif;
+
+}
+
+
+
+.test {
+  height: 89%;
+  width: 100%;
+  padding-top: 4%;
+  text-align: center;
+  background-color: white;
+  font-family: 'Merriweather', serif;
+  font-size: 70%;;
+}
+#instructs {
+  font-size: 140%;
+}
+
+ .pics {
+padding-top: 4%;
+
+}
+
+.pics img {
+  padding: 1%;
+  height: 25%;
+}
+
+
+.row2 {
+padding-right: 13%;
+
+}
+
+.aboutus {
+  padding: 7%;
+  font-family: 'Muli', sans-serif;
+  font-size: 90%;
+}
+
+#che {
+font-family: 'Merriweather', serif;
+}
+
+
+#examplevid {
+margin-top: 2%;
+margin-left: auto;
+ margin-right: auto;
+ display: block
+}
+
+#snap {
+width: 50%;
+padding-bottom: 10%;
+margin-right: 7%;
+padding-top: 5%;
+
+}
+
+#vidtitle {
+font-family: 'Merriweather', serif;
+text-align: center;
+font-size: 150%;
+padding-top: 3%;
+
+}
