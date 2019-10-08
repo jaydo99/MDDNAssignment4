@@ -133,3 +133,89 @@ font-size: 150%;
 padding-top: 3%;
 
 }
+
+.coverpage {
+  height: 85%;
+}
+
+#abstracttitle {
+  background-color: black;
+  color: white;
+  margin-left: 60%;
+  font-size: 70px;
+  padding: 3%;
+  z-index: 1;
+
+}
+
+#bin1 {
+  width: 47%;
+  position: absolute;
+  top: 35%;
+  left: 15%;
+  z-index: 0;
+
+}
+
+#title1 {
+  margin-left: 60%;
+  font-size: 50px;
+}
+
+#para1 {
+  background-color: black;
+  color: white;
+  margin-left: 40%;
+  margin-right: 15%;
+  padding: 3%;
+}
+
+#para2 {
+  margin-left: 15%;
+  margin-right: 45%;
+  padding: 3%;
+}
+
+#plan {
+  width:80%;
+  margin-left: 10%;
+}
+
+#title2 {
+  margin-top: 10%;
+  margin-left: 40%;
+  font-size: 50px;
+}
+
+#para3 {
+  background-color: black;
+  color: white;
+  margin-left: 20%;
+  margin-right: 45%;
+  padding: 3%;
+}
+
+#para4 {
+  margin-left: 40%;
+  margin-right: 20%;
+  padding: 3%;
+}
+
+#build1 {
+  width: 30%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+#build2{
+  width: 25%;
+  margin-left: 50%;
+  margin-top: 5%;
+}
+
+#build3 {
+  width: 45%;
+  margin-left: 15%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
